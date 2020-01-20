@@ -1,0 +1,30 @@
+﻿{
+	"forms": {
+		"HDI_TargetRibbon": {
+			"timeStamp": "2020-01-20T14:28:12.424Z",
+			"destination": "detailScreen"
+		},
+		"AJUI_BannerHDI": {
+			"timeStamp": "2020-01-20T14:26:51.871Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"AJUI_Banner_SF": {
+			"timeStamp": "2020-01-20T13:59:36.496Z",
+			"destination": "detailScreen"
+		},
+		"HDI": {
+			"timeStamp": "2020-01-20T14:27:50.278Z",
+			"destination": "detailScreen"
+		},
+		"AJUI_BannerHDI_page2": {
+			"timeStamp": "2020-01-20T14:28:38.005Z",
+			"destination": "detailScreen",
+			"shared": true
+		},
+		"TestForm": {
+			"timeStamp": "2020-01-20T14:28:38.069Z",
+			"destination": "detailScreen"
+		}
+	}
+}

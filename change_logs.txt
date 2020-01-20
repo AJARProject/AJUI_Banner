@@ -17,3 +17,6 @@ Component :
 - Updated Manual.
 Lab :
 - HDI Target Ribbon added.
+
+v1.7.0 - GC - 20.01.2020 :
+- v18

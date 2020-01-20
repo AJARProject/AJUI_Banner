@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="Banner_Demo" uuid="B25EAD06767F443A96574DBE8ED2A3F3" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra __stringCompHash="icu:63.1.0" __keywordBuildingHash="icu:63.1.0" package_name="AJUI_Banner_Demo" structure_file_name="Banner_Demo" data_file_path=":Banner_Demo.4DD">
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>

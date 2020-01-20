@@ -1,0 +1,283 @@
+﻿{
+	"destination": "detailScreen",
+	"formSizeAnchor": "Rectangle",
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onDoubleClick",
+		"onDrop",
+		"onMenuSelect",
+		"onPluginArea",
+		"onDataChange",
+		"onDragOver",
+		"onTimer",
+		"onAfterKeystroke",
+		"onAfterEdit",
+		"onBeginDragOver",
+		"onBoundVariableChange",
+		"onPageChange"
+	],
+	"method": "method.4dm",
+	"pageFormat": {
+		"paperName": "A4",
+		"paperWidth": "842pt",
+		"paperHeight": "595pt"
+	},
+	"pages": [
+		null,
+		{
+			"objects": {
+				"Rectangle1": {
+					"type": "rectangle",
+					"top": 2,
+					"left": -1,
+					"width": 544,
+					"height": 629,
+					"stroke": "#FFFFFF"
+				},
+				"AJUI_Banner": {
+					"type": "input",
+					"top": 54,
+					"left": 711,
+					"width": 206,
+					"height": 129,
+					"visibility": "hidden",
+					"dataSourceTypeHint": "picture",
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"method": "ObjectMethods/AJUI_Banner.4dm",
+					"events": [
+						"onClick",
+						"onDataChange"
+					]
+				},
+				"Rectangle": {
+					"type": "rectangle",
+					"top": 611,
+					"left": 523,
+					"width": 20,
+					"height": 20,
+					"visibility": "hidden",
+					"fill": "#FF0000"
+				},
+				"Rectangle2": {
+					"type": "rectangle",
+					"top": -3,
+					"left": -1,
+					"width": 544,
+					"height": 65,
+					"fill": "#005EA8"
+				},
+				"Text": {
+					"type": "text",
+					"top": 7,
+					"left": 1,
+					"width": 542,
+					"height": 44,
+					"stroke": "#FFFFFF",
+					"textAlign": "center",
+					"fontFamily": ".SF NS Text",
+					"fontSize": 36,
+					"fontWeight": "bold",
+					"text": "HDI Target Ribbon"
+				},
+				"Picture1": {
+					"type": "picture",
+					"top": 70,
+					"left": 428,
+					"width": 96,
+					"height": 96,
+					"pictureFormat": "scaled",
+					"picture": "Images/Picture1.png"
+				},
+				"Invisible Button": {
+					"type": "button",
+					"top": 70,
+					"left": 423,
+					"width": 109,
+					"height": 96,
+					"display": false,
+					"method": "ObjectMethods/Invisible Button.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"top-left": {
+					"type": "radio",
+					"top": 88,
+					"left": 65,
+					"width": 110,
+					"height": 24,
+					"text": "Top-left",
+					"focusable": false,
+					"radioGroup": "Groupe1",
+					"method": "ObjectMethods/top-left.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"bottom-left": {
+					"type": "radio",
+					"top": 128,
+					"left": 65,
+					"width": 110,
+					"height": 24,
+					"text": "Bottom-left",
+					"focusable": false,
+					"radioGroup": "Groupe1",
+					"method": "ObjectMethods/bottom-left.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"top-right": {
+					"type": "radio",
+					"top": 88,
+					"left": 205,
+					"width": 110,
+					"height": 24,
+					"text": "Top-right",
+					"focusable": false,
+					"radioGroup": "Groupe1",
+					"method": "ObjectMethods/top-right.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"bottom-right": {
+					"type": "radio",
+					"top": 128,
+					"left": 205,
+					"width": 110,
+					"height": 24,
+					"text": "Bottom-right",
+					"focusable": false,
+					"radioGroup": "Groupe1",
+					"method": "ObjectMethods/bottom-right.4dm",
+					"events": [
+						"onClick"
+					]
+				},
+				"LB_TODO": {
+					"type": "listbox",
+					"top": 249,
+					"left": 98,
+					"width": 358,
+					"height": 294,
+					"resizingMode": "legacy",
+					"focusable": false,
+					"rowHeight": "2em",
+					"showHeaders": false,
+					"scrollbarHorizontal": "automatic",
+					"verticalLineStroke": "transparent",
+					"events": [
+						"onLoad",
+						"onSelectionChange"
+					],
+					"columns": [
+						{
+							"name": "todo_col",
+							"width": 343,
+							"minWidth": 10,
+							"maxWidth": 32000,
+							"resizable": false,
+							"enterable": false,
+							"textAlign": "center",
+							"fontFamily": ".SF NS Text",
+							"fontSize": 16,
+							"fontWeight": "bold",
+							"events": [
+								"onClick",
+								"onDataChange"
+							],
+							"header": {
+								"name": "Entête1",
+								"text": "Entête1"
+							},
+							"footer": {
+								"name": "Pied1",
+								"timeFormat": "hh_mm_ss"
+							}
+						}
+					]
+				},
+				"Text1": {
+					"type": "text",
+					"top": 199,
+					"left": 65,
+					"width": 230,
+					"height": 31,
+					"stroke": "#1E90FF",
+					"textAlign": "left",
+					"fontFamily": ".SF NS Text",
+					"fontSize": 26,
+					"fontWeight": "bold",
+					"text": "List TODO"
+				},
+				"Variable1": {
+					"type": "input",
+					"top": 611,
+					"left": 367,
+					"width": 165,
+					"height": 14,
+					"dataSource": "AJUIB_labInfo",
+					"stroke": "#808080",
+					"textAlign": "right",
+					"fontFamily": ".SF NS Text",
+					"fontSize": 10,
+					"focusable": false,
+					"fill": "transparent",
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none"
+				},
+				"Variable": {
+					"type": "input",
+					"top": 611,
+					"left": 7,
+					"width": 167,
+					"height": 14,
+					"dataSource": "AJUIB_Info ",
+					"stroke": "#808080",
+					"fontFamily": ".SF NS Text",
+					"fontSize": 10,
+					"focusable": false,
+					"borderStyle": "none",
+					"enterable": false,
+					"contextMenu": "none",
+					"dragging": "none",
+					"dropping": "none",
+					"fill": "transparent"
+				}
+			}
+		}
+	],
+	"editor": {
+		"groups": {
+			"Groupe1": [
+				"top-left",
+				"bottom-left",
+				"top-right",
+				"bottom-right"
+			]
+		}
+	},
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	}
+}

@@ -1,0 +1,31 @@
+﻿{
+	"methods": {
+		"AJUIB_labInfo": {
+			"timeStamp": "2020-01-20T14:05:27.016Z"
+		},
+		"CloseBanner": {
+			"timeStamp": "2020-01-20T13:59:35.706Z"
+		},
+		"UpdateBanner": {
+			"timeStamp": "2020-01-20T13:59:35.705Z"
+		},
+		"Launch_HDI_exampleSF": {
+			"timeStamp": "2020-01-20T13:59:35.707Z"
+		},
+		"Launch_HDI_example1": {
+			"timeStamp": "2020-01-20T13:59:35.706Z"
+		},
+		"HeartBeat": {
+			"timeStamp": "2020-01-20T13:59:35.705Z"
+		},
+		"Launch_HDI_main": {
+			"timeStamp": "2020-01-20T13:59:35.671Z"
+		},
+		"testP1": {
+			"timeStamp": "2020-01-20T13:59:35.704Z"
+		},
+		"Launch_HDI_TargetRibbon": {
+			"timeStamp": "2020-01-20T13:59:35.708Z"
+		}
+	}
+}
