@@ -34,6 +34,4 @@ Case of
 		Form:C1466.ribbon.RibbonTargetName("LB_TODO")
 		
 		Form:C1466.ribbon.DrawBanner()
-		
-		
 End case 
