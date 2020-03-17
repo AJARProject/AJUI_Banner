@@ -20,3 +20,6 @@ Lab :
 
 v1.7.0 - GC - 20.01.2020 :
 - v18
+
+v1.7.1 - GI - 17.03.2020
+- Make the HideBanner to work within a subform
