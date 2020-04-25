@@ -1,6 +1,5 @@
 ﻿$evt:=Form event code:C388
 
-
 Case of 
 	: ($evt=On Clicked:K2:4)
 		C_TEXT:C284($currentObjName_t)
