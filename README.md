@@ -30,6 +30,9 @@ A Banner is created via the language and will be displayed in a picture element 
 
 1.7.0-Build18  // Mon, 20 Jan 2020 13:51:28 GMT
 
+Minimal 4D Version : 
+ - 18 
+
 ### Questions?
 
 If you have any question, you can ask them directly on github or write to info@ajar.ch
