@@ -28,10 +28,11 @@ A Banner is created via the language and will be displayed in a picture element 
 
 ### Version
 
-1.7.0-Build18  // Mon, 20 Jan 2020 13:51:28 GMT
+1.7.2-Build20  // Thu, 18 Jun 2020 09:48:46 GMT
 
 Minimal 4D Version : 
- - 18 
+ - 18 (using formula member function)
+ - 18 R3 (using class)
 
 ### Questions?
 
