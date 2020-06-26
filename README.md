@@ -13,7 +13,7 @@ A Banner is created via the language and will be displayed in a picture element 
 [Wiki AJUI_Banner](https://github.com/AJARProject/AJUI_Banner/wiki)
 
 **Example**
-
+```4d
     Case of
       : (Form event=On Load)
         Form.banner:=New AJUI_Banner
@@ -29,6 +29,7 @@ A Banner is created via the language and will be displayed in a picture element 
         Form.cornerRibbon.DrawBanner()
 
     End case
+```
 
 ### Version
 
