@@ -27,3 +27,6 @@ v1.7.1 - GI - 17.03.2020
 v1.7.2 - GC - 18.06.2020
 - Added Banner class
 - Updated wiki
+
+v1.8.0 - 20.02.2022
+	- Compile for Intel and M1

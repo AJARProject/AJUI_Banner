@@ -33,7 +33,7 @@ A Banner is created via the language and will be displayed in a picture element 
 
 ### Version
 
-1.7.2-Build20  // Thu, 18 Jun 2020 09:48:46 GMT
+1.8.0+Build23 // Sun, 20 Feb 2022 14:46:16 GMT
 
 Minimal 4D Version : 
  - 18 (using formula member function)
