@@ -1,3 +1,13 @@
+
+![DEPRECATED](https://img.shields.io/badge/-DEPRECATED-red)
+
+## Source published
+This repository will not be used anymore. Please look at [AJUI_Banner_source](https://github.com/AJARProject/AJUI_Banner_source).
+
+---
+---
+---
+
 # AJUI_Banner
 
 AJUI Banner is a component made for 4D that help you to create and display banner in your forms. You can fully customize your banners.
